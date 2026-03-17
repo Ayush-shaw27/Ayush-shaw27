@@ -2,7 +2,8 @@
 I’m an Artificial Intelligence and Data Science undergraduate with a strong interest in building intelligent and scalable systems. <br>My work focuses on combining machine learning concepts with real-world software engineering, especially in backend development, data-driven applications, and automation.<br>I enjoy solving complex problems by designing efficient systems, optimizing performance, and turning ideas into practical solutions. Through hands-on projects and hackathons, I continuously explore how AI can be integrated into production-ready applications to create meaningful impact.
 
 
-## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-shaw-8a336234a/) 
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-shaw-8a336234a/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shawayushshailesh@gmail.com)
 
 # Tech Stack:
